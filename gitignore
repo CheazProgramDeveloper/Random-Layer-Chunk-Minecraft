@@ -1,0 +1,20 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.bak
+
+# Файлы, специфичные для вашей системы
+*.class
