@@ -11,10 +11,10 @@ build/
 .classpath
 .project
 
-# Логи и временные файлы
+# Logs and temporary files
 *.log
 *.tmp
 *.bak
 
-# Файлы, специфичные для вашей системы
+# Files specific to your system
 *.class
